@@ -50,7 +50,7 @@ color: #6a89d7;
                 <div class="modal-footer">
                     <form class="form-label-group" name="frm_modalcomprarcurso" method="post">
                        
-                        <input class="btn btn-success btn-rounded btn-sm" name="" type="submit" value="voltar">
+                        <input class="btn btn-danger btn-rounded btn-sm" name="" type="submit" value="voltar">
                          <input class="btn btn-info btn-rounded btn-sm" name="" type="submit" value="Confimar">  
                     </form>
                 </div>

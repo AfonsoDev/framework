@@ -148,7 +148,7 @@ color: #6a89d7;
                                     </div>
                                     <div class="row justify-content-md-center">
                                         <div class="col-11">
-                                            <div class="card rounded-0 ml-4">
+                                            <div class="rounded-0 ml-4">
                                      <div class="row justify-content-md-center mt-4">
                                         <div class="col-sm-3">
                                             <div class="card rounded-0 ml-3 mr-3">
