@@ -58,14 +58,14 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-md-6 col-xl">
+                                <div class="col-md-6 col-xl">
                                  <div class="flex-fill card rounded-0">
                                      <div class="py-4 card-body">
                                         <div class="media">
                                             <div class="d-inline-block mt-2 mr-3"></div>
                                             <div class="media-body">
-                                            <h4 class="mb-1">Saldo Reserva</h4>
-                                            <h3 class="mb-1">0,0000000 BTC</h3><i class="ft-database data-widget-icon"></i>
+                                            <h4 class="mb-1">Total Pagamentos</h4>
+                                            <h3 class="mb-1">000</h3><i class="ft-dollar-sign data-widget-icon"></i>
                                             </div>
                                         </div>
                                     </div>
@@ -77,8 +77,8 @@
                                         <div class="media">
                                             <div class="d-inline-block mt-2 mr-3"></div>
                                             <div class="media-body">
-                                            <h4 class="mb-1">G20 Atual</h4>
-                                            <h3 class="mb-1">0000</h3><i class="ft-user data-widget-icon"></i>
+                                            <h4 class="mb-1">Total Recebimentos</h4>
+                                            <h3 class="mb-1">000</h3><i class="ft-shopping-bag data-widget-icon"></i>
                                             </div>
                                         </div>
                                     </div>

@@ -65,8 +65,8 @@
                                         <div class="media">
                                             <div class="d-inline-block mt-2 mr-3"></div>
                                             <div class="media-body">
-                                            <h4 class="mb-1">Saldo Reserva</h4>
-                                            <h3 class="mb-1">0,0000000 BTC</h3><i class="ft-database data-widget-icon"></i>
+                                            <h4 class="mb-1">G20 Concluidos</h4>
+                                            <h3 class="mb-1">000</h3><i class="ft-user-check data-widget-icon"></i>
                                             </div>
                                         </div>
                                     </div>
@@ -78,8 +78,8 @@
                                         <div class="media">
                                             <div class="d-inline-block mt-2 mr-3"></div>
                                             <div class="media-body">
-                                            <h4 class="mb-1">G20 Atual</h4>
-                                            <h3 class="mb-1">0000</h3><i class="ft-user data-widget-icon"></i>
+                                            <h4 class="mb-1">Pessoas na Rede</h4>
+                                            <h3 class="mb-1">0000</h3><i class="ft-sliders data-widget-icon"></i>
                                             </div>
                                         </div>
                                     </div>
