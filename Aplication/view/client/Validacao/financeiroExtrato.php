@@ -6,7 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="admin template, angular admin template, bootstrap admin template, modern admin template, modern design admin template, dashboard template, responsive admin template, angular web app, crypto dashboard, bitcoin dashboard">
-    <title>Bootstrap &amp; Angular admin template + crypto dashboard - modern design admin | eCommerce Analytics</title><!-- GLOBAL VENDORS-->
+    <title>Financeiro | Extratos</title><!-- GLOBAL VENDORS-->
+    <link rel="shortcut icon" href="../img/logoG20_BTC_original_v2.png">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" media="all">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     
@@ -100,8 +101,8 @@ color: #6a89d7;
                                         <div class="media">
                                             <div class="d-inline-block mt-2 mr-3"></div>
                                             <div class="media-body">
-                                            <h4 class="mb-1">Saldo Reserva</h4>
-                                            <h3 class="mb-1">0,0000000 BTC</h3><i class="ft-database data-widget-icon"></i>
+                                            <h4 class="mb-1">Total Pagamentos</h4>
+                                            <h3 class="mb-1">000</h3><i class="ft-dollar-sign data-widget-icon"></i>
                                             </div>
                                         </div>
                                     </div>
@@ -113,8 +114,8 @@ color: #6a89d7;
                                         <div class="media">
                                             <div class="d-inline-block mt-2 mr-3"></div>
                                             <div class="media-body">
-                                            <h4 class="mb-1">G20 Atual</h4>
-                                            <h3 class="mb-1">0000</h3><i class="ft-user data-widget-icon"></i>
+                                            <h4 class="mb-1">Total Recebimentos</h4>
+                                            <h3 class="mb-1">0000</h3><i class="ft-shopping-bag data-widget-icon"></i>
                                             </div>
                                         </div>
                                     </div>

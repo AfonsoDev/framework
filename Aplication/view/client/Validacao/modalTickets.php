@@ -6,9 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="admin template, angular admin template, bootstrap admin template, modern admin template, modern design admin template, dashboard template, responsive admin template, angular web app, crypto dashboard, bitcoin dashboard">
-    <title>Bootstrap &amp; Angular admin template + crypto dashboard - modern design admin | eCommerce Analytics</title><!-- GLOBAL VENDORS-->
+    <title>G20 | Tickets</title><!-- GLOBAL VENDORS-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" media="all">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="shortcut icon" href="../img/logoG20_BTC_original_v2.png">
     
     <link rel="stylesheet" href="../../../assets/feather-icons/feather.css">
     <link rel="stylesheet" href="../../../assets/line-awesome/css/line-awesome.min.css">
@@ -38,28 +39,27 @@ color: #6a89d7;
         <div class="container">
             <div class="modal-content rounded-0">
                 <div class="modal-header">
-                <h4 class="modal-title h4 text-center" id="exampleLargeModalLabel">Titulo</h4><button class="close" type="button" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"></span></button></div>
+                <h4 class="modal-title h4 text-center" id="exampleLargeModalLabel">Assunto do Tickets</h4><button class="close" type="button" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"></span></button></div>
                 <div class="modal-body">
                     <div class="row">
                         <div class="col-12">
-                            <div class="card rounded-0 bg-dark">
-                                <h1 class="text-white">CONVERSAS</h1>
+                            <div class="card rounded-0 bg-white ml-2">
+                                <h class="text-dark">Assunto</hp>
                             </div>
-                            
                             <form method="post" name="frm_pesquisaTickets" class="from-label-group">
                                 <div class="input-group">
-                                      <input type="text" class="form-control" placeholder="Insira seu texto" aria-label="insira seu texto">
+                                    <input type="text" class="form-control" placeholder="Insira seu texto" aria-label="insira seu texto">
                                       <div class="input-group-append">
                                         <input class="btn btn-success btn-rounded ml-1" type="submit">
                                       </div>
-                                    </div>
+                                </div>
                             </form>
                         </div>
                     </div>
                 </div>
                 <div class="modal-footer">
-                    <button class="btn btn-dark btn-rounded btn-lg" value="Fechar">Fechar</button>
-                    <button class="btn btn-info btn-rounded btn-lg" value="Fechar">Voltar</button>
+                    <button class="btn btn-danger btn-rounded btn-lg" value="Fechar">Encerrar Ticket</button>
+                    <button class="btn btn-secondary btn-rounded btn-lg" value="Fechar">Fechar Janela</button>
                 </div>
             </div>
         </div>

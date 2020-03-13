@@ -6,10 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="admin template, angular admin template, bootstrap admin template, modern admin template, modern design admin template, dashboard template, responsive admin template, angular web app, crypto dashboard, bitcoin dashboard">
-    <title>Bootstrap &amp; Angular admin template + crypto dashboard - modern design admin | eCommerce Analytics</title><!-- GLOBAL VENDORS-->
+    <title>G20 | Suporte</title><!-- GLOBAL VENDORS-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" media="all">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    
+    <link rel="shortcut icon" href="../img/logoG20_BTC_original_v2.png">
     <link rel="stylesheet" href="../../../assets/feather-icons/feather.css">
     <link rel="stylesheet" href="../../../assets/line-awesome/css/line-awesome.min.css">
     <link rel="stylesheet" href="../../../assets/@fortawesome/fontawesome-free/css/all.css">

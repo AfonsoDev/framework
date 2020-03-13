@@ -6,9 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="admin template, angular admin template, bootstrap admin template, modern admin template, modern design admin template, dashboard template, responsive admin template, angular web app, crypto dashboard, bitcoin dashboard">
-    <title>Bootstrap &amp; Angular admin template + crypto dashboard - modern design admin | eCommerce Analytics</title><!-- GLOBAL VENDORS-->
+    <title>G20 | Perfil</title><!-- GLOBAL VENDORS-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" media="all">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="shortcut icon" href="../img/logoG20_BTC_original_v2.png">
     
     <link rel="stylesheet" href="../../../assets/feather-icons/feather.css">
     <link rel="stylesheet" href="../../../assets/line-awesome/css/line-awesome.min.css">
@@ -71,7 +72,7 @@ color: #6a89d7;
                         <div class="row">
                             <div class="col-12 mt-4">
                                 <div class="card rounded-0">
-                                    <h4 class="text-center mt-2">Titulo</h4>
+                                    <h4 class="text-center mt-2">Perfil</h4>
                                     <div class="card-body">
                                         <div class="alert alert-warning alert-bordered has-icon" role="alert"><i class="la la-warning alert-icon"></i> <strong>Warning!</strong><br>A simple warning alert&mdash;check it out!
                                          </div>

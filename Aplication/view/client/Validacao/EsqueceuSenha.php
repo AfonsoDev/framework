@@ -6,8 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="admin template, angular admin template, bootstrap admin template, modern admin template, modern design admin template, dashboard template, responsive admin template, angular web app, crypto dashboard, bitcoin dashboard">
-    <title>Bootstrap &amp; Angular admin template + crypto dashboard - modern design admin | Login</title><!-- GLOBAL VENDORS-->
-    
+    <title>G20 |Esqueceu sua senha</title><!-- GLOBAL VENDORS-->
+    <link rel="shortcut icon" href="../img/logoG20_BTC_original_v2.png">
     <link rel="stylesheet" href="../../../assets/feather-icons/feather.css">
     <link rel="stylesheet" href="../../../assets/line-awesome/css/line-awesome.min.css">
     <link rel="stylesheet" href="../../../assets/@fortawesome/fontawesome-free/css/all.css">
@@ -51,12 +51,12 @@
             <div class="card auth-content mb-0">
                 <div class="card-body py-5">
                     <div class="text-center mb-5">
-                        <img src="#" class="" alt="LOGO" height="" width="">
+                        <img src="../img/logoG20_BTC_original_v1.png" class="" alt="LOGO">
                         <h1>Esqueceu a Senha</h1>
                     </div>
                     <form id="login-form" action="" method="post">
                         <div class="mb-4">
-                            <div class="md-form mb-0"><input class="md-form-control" type="email" autocomplete="off" name="email"><label>E-mail</label></div>
+                            <div class="md-form mb-0"><input class="md-form-control" type="e-mail" autocomplete="off" name="email"><label>E-mail</label></div>
                         </div>
                         <div>
                         

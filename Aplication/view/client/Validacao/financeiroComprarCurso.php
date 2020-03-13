@@ -6,10 +6,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="admin template, angular admin template, bootstrap admin template, modern admin template, modern design admin template, dashboard template, responsive admin template, angular web app, crypto dashboard, bitcoin dashboard">
-    <title>Bootstrap &amp; Angular admin template + crypto dashboard - modern design admin | eCommerce Analytics</title><!-- GLOBAL VENDORS-->
+    <title>G20 | Comprar Cursos</title><!-- GLOBAL VENDORS-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" media="all">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-    
+    <link rel="shortcut icon" href="../img/logoG20_BTC_original_v2.png">
+
     <link rel="stylesheet" href="../../../assets/feather-icons/feather.css">
     <link rel="stylesheet" href="../../../assets/line-awesome/css/line-awesome.min.css">
     <link rel="stylesheet" href="../../../assets/@fortawesome/fontawesome-free/css/all.css">
@@ -82,17 +83,9 @@ color: #6a89d7;
                                                 <h4 class="mb-2">0,0000000 BTC</h4>
                                                 <div class="mb-0">
                                                     <form class="from-label-group" name="frm_reservabtc" method="post">
-                                                    <input class="btn btn-info btn-rounded btn-sm mt-0" type="submit" value="Enivar">
+                                                    <input class="btn btn-info btn-rounded btn-sm mt-0" type="submit" value="Retirar Reserva">
                                                     </form>
                                                 </div>
-                                            </div>
-                                            
-                                            <div class="media-body"></div>
-                                            <div class="media-body">
-                                                <div class="mb-2 text-center">
-                                                    <img src="#" alt="LOGO">
-                                                </div>
-                                                <div class="mb-0 text-center">LONGE TEXTE</div>
                                             </div>
                                         </div>
 
@@ -121,9 +114,9 @@ color: #6a89d7;
                                                                 <option value="1">Modo automático</option>
                                                                 <option value="2">Desligar modo automático</option>
                                                             </select>
-                                                             <div class="input-group-append ml-1">
-                                                                 <input class="btn btn-info btn-rounded btn-sm mt-0" name="" type="submit" value="Enivar">
-                                                             </div>
+                                                             <div class="form-group my-4">
+                                                                 <label class="checkbox checkbox-primary mt-2"><input type="checkbox" checked=""><span></span></label>
+                                                            </div>
                                                         </div>
                                                     </form>
                                                 </div>
@@ -139,7 +132,7 @@ color: #6a89d7;
                             <div class="flex-fill card rounded-0">
                                 <div class="py-4 card-body">
                                     <div class="text-center">
-                                        <h4>Titulo</h4>
+                                        <h4>Assinatura de curso</h4>
                                     </div>
                                     <div class="alert alert-warning alert-bordered has-icon" role="alert"><i class="la la-warning alert-icon"></i>          <strong>Warning!</strong><br>A simple warning alert&mdash;check it out!
                                     </div> 

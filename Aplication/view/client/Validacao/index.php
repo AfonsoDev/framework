@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="admin template, angular admin template, bootstrap admin template, modern admin template, modern design admin template, dashboard template, responsive admin template, angular web app, crypto dashboard, bitcoin dashboard">
-    <title>Bootstrap &amp; Angular admin template + crypto dashboard - modern design admin | eCommerce Analytics</title><!-- GLOBAL VENDORS-->
+    <title>G20 | Home</title><!-- GLOBAL VENDORS-->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" media="all">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     
@@ -17,18 +17,20 @@
     <link rel="stylesheet" href="../../../assets/themify-icons/themify-icons.css">
     <link rel="stylesheet" href="../../../assets/perfect-scrollbar/css/perfect-scrollbar.css">
     <link rel="stylesheet" href="../../../assets/@fortawesome/fontawesome-free/css/all.css">
-    <link rel="stylesheet" href="../../../assets/assets/css/themes/app-sidebar-light.css">     <link rel="stylesheet" href="../../../assets/assets/css/themes/app-sidebar-light.css">
+    <link rel="stylesheet" href="../../../assets/assets/css/themes/app-sidebar-light.css">   
+    <link rel="stylesheet" href="../../../assets/assets/css/themes/app-sidebar-light.css">
     <link rel="stylesheet" href="../../../assets/jvectormap/jquery-jvectormap-2.0.3.css">
     <link rel="stylesheet" href="../../../assets/DataTables/datatables.min.css">
-
+    <link rel="shortcut icon" href="../img/logoG20_BTC_original_v2.png">
+    
     
     <style>.data-widget-icon {
-position: absolute;
-top: 20px;
-right: 20px;
-font-size: 40px;
-color: #6a89d7;
-}
+        position: absolute;
+        top: 20px;
+        right: 20px;
+        font-size: 40px;
+        color: #6a89d7;
+    }
 </style>
 </head>
 
@@ -38,7 +40,7 @@ color: #6a89d7;
         <div class="content-wrapper">
             <!-- BEGIN: Sidebar-->
             <div class="page-sidebar custom-scroll text-dark" id="sidebar">
-                <div class="sidebar-header mb-0 p-0 pt-2"><a class="sidebar-brand" href="#"><img src="../img/logoG20_BTC_original_v1.png" class="rounded" alt="LogoG20"></a><a class="sidebar-brand-mini" href="#"></a><span class="sidebar-points"></span></div>
+                <div class="sidebar-header mb-0 p-0 pt-2"><a class="sidebar-brand" href="#"><img src="../img/logoG20_BTC_original_v1.png" alt="LogoG20"></a><a class="sidebar-brand-mini" href="#"></a><span class="sidebar-points"></span></div>
                 <ul class="sidebar-menu metismenu">
                     <li class="heading p-0 pl-4"><span>Navegação</span></li>
                     <li><a href="#"><i class="sidebar-item-icon ft-home"></i><span class="nav-label">Home</span></a></li>
@@ -128,7 +130,8 @@ color: #6a89d7;
                                         <div class="py-4 card-body">
                                             <div class="media">
                                                 <div class="media-body">
-                                                    <h4><i class="sidebar-item-icon ft-share"></i> Titulo</h4>
+                                                    <h4><i class="sidebar-item-icon ft-share"></i> Link de indicação</h4>
+                                                    <h6>Use o link para indicar outras pessoas ao negócio</h6>
                                                 </div>
     
                                                     <div class="media-body"></div>
