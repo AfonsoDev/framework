@@ -44,7 +44,7 @@ color: #6a89d7;
                     <div class="row">
                         <div class="col-12">
                             <div class="card rounded-0 bg-white ml-2">
-                                <h class="text-dark">Assunto</hp>
+                                <h4 class="text-dark">Assunto</h4>
                             </div>
                             <form method="post" name="frm_pesquisaTickets" class="from-label-group">
                                 <div class="input-group">
