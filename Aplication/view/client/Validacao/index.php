@@ -23,7 +23,7 @@
     <link rel="stylesheet" href="../../../assets/DataTables/datatables.min.css">
     <link rel="shortcut icon" href="../img/logoG20_BTC_original_v2.png">
     
-    
+<!--   DELETAR DAQUI PARA CIMA -->
     <style>.data-widget-icon {
         position: absolute;
         top: 20px;
@@ -31,33 +31,96 @@
         font-size: 40px;
         color: #6a89d7;
     }
+
+        .containerinfo{
+            width:100%;
+            height:50px;
+        }
+        .imgUsuario{
+            width:20px;
+            height:10px;
+            background-color:blue;
+            border-radius:90%;
+            padding:20px;
+            margin-right: 9px;
+            box-sizing: border-box;
+            float: left;
+            background-image: url(../img/user.png);
+            background-position: center;
+            background-size: 40px;
+            background-repeat: no-repeat;
+        }
+        .imgUsuario:hover{
+            border: 0.1px solid #FFD017;
+        }
+        .nameuser{
+            font-family: arial;
+        }
+        .containerinfo:hover{
+            color: #FFD017;
+            cursor: pointer;
+        }
+        .imgUsuario:hover{
+            border: 1 solid red;
+        }
+        .nomeuser{
+
+        }
+        .sair{
+            visibility: inherit;
+/*            opacity: 1;*/
+        }
+        .nameuser:hover > .sair:hover {
+              visibility: visible;
+                opacity: 1;
+                color: black;
+        }
 </style>
 </head>
 
 <body>
-<!--   ----------------------------------------------------------- DELETAR DAQUI PARA CIMA------------------------------------------------------>
     <div class="page-wrapper">
         <div class="content-wrapper">
-            <!-- BEGIN: Sidebar-->
             <div class="page-sidebar custom-scroll text-dark" id="sidebar">
                 <div class="sidebar-header mb-0 p-0 pt-2"><a class="sidebar-brand" href="#"><img src="../img/logoG20_BTC_original_v1.png" alt="LogoG20"></a><a class="sidebar-brand-mini" href="#"></a><span class="sidebar-points"></span></div>
+                <div class="containerinfo border-top nameuser">
+                        <ul class="sidebar-menu metismenu">
+                            <li><a href="javascript:;" class="pl-3"><i class="imgUsuario"></i> <span class="nav-label pl-0 text-dark">Nome do usuario<i class="arrow la la-angle-right"></i></span></a>
+                                <ul class="nav-2-level">
+                            
+                                    
+                                    <li><a href="#"><i class="sidebar-item-icon ft-user"></i><span class="nav-label">Perfil</span></a></li>
+                                    <li><a href="#" class="text-danger"><i class="text-danger fas fa-power-off mr-4"></i> Sair</a></li>
+                                    
+                                </ul>
+                            </li>
+                        </ul>
                 <ul class="sidebar-menu metismenu">
-                    <li class="heading p-0 pl-4"><span>Navegação</span></li>
                     <li><a href="#"><i class="sidebar-item-icon ft-home"></i><span class="nav-label">Home</span></a></li>
                     <li><a href="#"><i class="sidebar-item-icon ft-git-pull-request"></i><span class="nav-label">Rede</span></a></li>
-                    <li><a href="#"><i class="sidebar-item-icon ft-user"></i><span class="nav-label">Perfil</span></a></li>
                     <li><a href="javascript:;"> <i class="sidebar-item-icon ft-settings"></i><span class="nav-label text-dark">Financeiro</span><i class="arrow la la-angle-right"></i></a>
                         <ul class="nav-2-level">
-                            <!-- 2-nd level-->
+                            
+                            
                             <li><a href="#"><i class="sidebar-item-icon ft-dollar-sign"></i>Comprar Curso</a></li>
                             <li><a href="#"><i class="sidebar-item-icon ft-file-text"></i>Extrato</a></li>
+                            
                         </ul>
                     </li>
-                    <li><a href="#"><i class="sidebar-item-icon ft-monitor"></i><span class="nav-label">Curso</span></a></li>
+                    <li><a href="#"><i class="sidebar-item-icon ft-monitor"></i><span class="nav-label">Cursos</span></a></li>
                     <li><a href="#"><i class="sidebar-item-icon ft-headphones"></i><span class="nav-label"> Suporte</span></a>
                     </li>
                 </ul>
-            </div><!-- END: Sidebar-->
+                </div>
+            </div>
+            
+<!--          DELETAAA DAQUI PARA BAIXO  -->
+            
+            
+            
+            
+            
+            
             <!-- BEGIN: Content-->
             <div class="content-area">
                 <!-- BEGIN: Header-->
