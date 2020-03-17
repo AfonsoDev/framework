@@ -39,15 +39,15 @@
         .imgUsuario{
             width:20px;
             height:10px;
-            background-color:blue;
+            background-color:yellow;
             border-radius:90%;
             padding:20px;
             margin-right: 9px;
             box-sizing: border-box;
             float: left;
-            background-image: url(../img/user.png);
+            background-image: url(img/user.png);
             background-position: center;
-            background-size: 40px;
+            background-size: 50px;
             background-repeat: no-repeat;
         }
         .imgUsuario:hover{
